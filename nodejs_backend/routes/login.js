@@ -13,4 +13,4 @@ router.post('/', function(req, res, next) {
   }
 })
 
-modele.exports = router;
+module.exports = router;
